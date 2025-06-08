@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id playTabla
+id playTanpura
+layout activity_main
+raw tanpura_c
+raw teentaal
+string app_name
+string play_tabla
+string play_tanpura

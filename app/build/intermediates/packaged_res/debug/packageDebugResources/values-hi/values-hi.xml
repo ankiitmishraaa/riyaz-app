@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रियाज़</string>
+    <string name="play_tabla">तबला बजाएँ (तीनताल)</string>
+    <string name="play_tanpura">तानपुरा बजाएँ (सा)</string>
+</resources>

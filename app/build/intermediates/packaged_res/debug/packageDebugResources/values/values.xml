@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Riyaz Companion</string>
+    <string name="play_tabla">Play Tabla</string>
+    <string name="play_tanpura">Play Tanpura</string>
+</resources>

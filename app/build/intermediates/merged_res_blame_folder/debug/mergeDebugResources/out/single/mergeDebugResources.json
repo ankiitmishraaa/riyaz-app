@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.riyazcompanion.app-debug-31:/raw_teentaal.flat",
+        "source": "com.example.riyazcompanion.app-main-33:/raw/teentaal"
+    },
+    {
+        "merged": "com.example.riyazcompanion.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.riyazcompanion.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.riyazcompanion.app-debug-31:/raw_tanpura_c.flat",
+        "source": "com.example.riyazcompanion.app-main-33:/raw/tanpura_c"
+    }
+]
